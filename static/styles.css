@@ -2,7 +2,8 @@ h1{ background-color: darkblue;
 color: white;}
 
 img{
-    width: 50vw;
+    width: 90vw;
+    max-width: 2000px;
     margin: auto;
        
 }
